@@ -1,24 +1,29 @@
 ---
 layout: about
 permalink: /
-title: <strong>Alex Hay</strong>
-description: Robotics | Neuroscience
+title: <strong>Dandan Wang</strong>
+description: Machine Learning | Economist
 
 profile:
   align: right
-  image: Alex_Hay.jpg
-  address: Montreal, Quebec
+  image: dandan.jpg
+  address: LiaoNing, China
 news: true
 social: true
 ---
 <br>
-My name is Alex Hay, in April 2021 I joined the University of Montreal as a research associate in the Department of Neuroscience. We train monkeys to perform specific tasks while we read from an electrode implanted in their brain. Montreal sits at an intersection between neurosceince and AI, progress is a partnership.
+Dandan Wang serves as an Assistant Professor of Economics at the [LiaoNing University](https://enweb.lnu.edu.cn/),  focusing on the development and maintenance of machine learning and econometric toolboxes, with particular emphasising on methods for analysing complex systems involving agent-based models and policy simulations related to climate change and inequality.
+
+Her academic pursuits are centred around applying machine learning techniques to public policy challenges, with a particular emphasis on addressing inequality and environmental issues. She leverages econometric methods, machine learning, and agent-based models to analyse the complex interactions between economic policies, climate change, and societal well-being. Her recent investigations aim to uncover the socioeconomic impacts of climate change, exploring how environmental policies affect income distribution and mental health outcomes across different populations. Additionally, her work incorporates elements of behavioural economics to better understand decision-making processes in the context of environmental sustainability and social welfare programs.
+
+Her research interests include but not limited to interests: Machine Learning, Public Policy, Econometrics, Agent Based Models, Inequality, Environment, Climate Change, Mental Health.
+
 
 <!-- I'm currently a masters student of robotics at Northwestern University in Chicago. My passion lies in prosthetics, learning new ways of augmenting human ability, and making new methodologies accessible.
 
-I received my BS in mechanical engineering in 2014 at Iowa State University. I completed my internship at the Rehabilitation Institute of Chicago (rebuilt as the [Shirley Ryan Ability Lab](https://www.sralab.org/)) then moved on to the start-up world developing computer vision technologies. In 2019, I was accepted into the Masters of Science in Robotics program at Northwestern University. -->
+I received my BS in mechanical engineering in 2014 at Iowa State University. I completed my internship at the Rehabilitation Institute of Chicago (rebuilt as the [Shirley Ryan Ability Lab](https://www.sralab.org/)) then moved on to the start-up world developing computer vision technologies. In 2019, I was accepted into the Masters of Science in Robotics program at Northwestern University.
 
-Disability or impairment in the wake of trauma may be difficult or impossible for the body to overcome. My professional goal is to help build systems that interact with the body to improve function, strength, and ability. By understanding how the body's underlying systems operates and communicate, we can build devices that interact with the body in a much more natural way.
+Disability or impairment in the wake of trauma may be difficult or impossible for the body to overcome. My professional goal is to help build systems that interact with the body to improve function, strength, and ability. By understanding how the body's underlying systems operates and communicate, we can build devices that interact with the body in a much more natural way.-->
 
 <!-- By watching how mother nature overcomes her challenges, we can incorporate those lessons into engineering design. When we apply those naturally inspired systems, not only do we learn more about our own world, but we develop a deeper respect for it. -->
 

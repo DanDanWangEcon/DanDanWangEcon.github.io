@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /resume/
-title: resume
+title: CV
 # description: Materials for courses you taught. Replace this text with your description.
 ---
 
 <p>
   <a href=""></a><div class=""></div>
-  <a href="/assets/pdf/resume.pdf"><div class="color-button">Resume</div></a>
+  <a href="/assets/pdf/CVtemplate.pdf"><div class="color-button">Resume</div></a>
 </p>
 
 ### Tools
