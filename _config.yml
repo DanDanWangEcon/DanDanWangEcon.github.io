@@ -75,7 +75,7 @@ enable_katex:       true
 # Collections
 # -----------------------------------------------------------------------------
 collections:
-  news:
+  news: false
     defaults:
       layout: post
     output: true
