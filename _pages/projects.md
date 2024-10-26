@@ -5,10 +5,7 @@ permalink: /projects/
 description: #A growing collection of your cool projects.
 ---
 
-<p>
-  <a href=""></a><div class=""></div>
-  <a href="/assets/pdf/CVtemplate.pdf"><div class="color-button">CV</div></a>
-</p>
+
 
 ### Tools
 

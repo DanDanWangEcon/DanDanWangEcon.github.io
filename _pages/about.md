@@ -1,6 +1,6 @@
 ---
-layout: About
-permalink: /
+layout: about
+permalink: /About/
 title: <strong>Dandan Wang</strong>
 description: Machine Learning | Economist
 
