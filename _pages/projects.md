@@ -1,44 +1,30 @@
 ---
 layout: page
 title: Teaching
-permalink: /projects/
+permalink: /Teaching/
 description: #A growing collection of your cool projects.
 ---
 
+####  LiaoNing University - Assistant Professor for Economics...
+#### <su>2021.10.01 -  </su>
 
+* Financial Econometrics for Master
+* Advanced Econometrics II for P.h.D.
+* Advanced Econometrics I for P.h.D.
+* Business Statistics for undergraduate
+* Artificial Intelligence for undergraduate
 
-### Tools
+####  University Carlos III of Madrid - Assistant Professor for Economics...
+#### <su>2017.08.01 - 2021.09.31 </su>
 
-* Coding: Python, MATLAB, C, HTML/Javascript
-* Design: Solidworks, 3D-Printing, AutoCAD, Inventor
-* Programs: Linux, Windows, NDS
+* Causal Inference for Master
+* Time series analysis and forecasting for Master
+* Statistics II for Master
+* Advanced Econometrics I for P.h.D.
+* Econometric II for undergraduate
+* Econometric I for undergraduate
 
-### Experience
+#### The University of Warwick -Teaching Fellow...
+#### <su>2016.09.01 - 2017.08.31</su>
 
-#### Pearce Services - Design Engineer...
-#### <su>2016 - 2019</su>
-
-* Facilitated infrastructure plans for major metro ISPs and carriers<br>
-* Scope of projects ranged from small businesses to residential communities<br>
-* Budgeted construction and labor costs, dispatching engineers on site when necessary
-
-#### Drive Spotter - Product Engineer...
-#### <su>2015 - 2016</su>
-
-* Developed a working prototype construction zone detector using OpenCV<br>
-* Conducted prior art research; assisted in writing, editing, and revising patents and proposals<br>
-* Traveled frequently, giving demonstrations to investors and securing accounts
-
-#### Medline Industries - R&D Material Technician...
-#### <su>2014 - 2015</su>
-
-* Conducted tests evaluating material properties of medical products for manufacturers<br>
-* Constructed new testing procedures in compliance with relevant ISO regulations<br>
-* Quantified experimental data in the final report of quality assurance investigation
-
-#### Rehabilitation Institute of Chicago - Research Intern...
-#### <su>2014</su>
-
-* Worked in a small team to develop a novel adaptive wheelchair controller for spinal cord injury patients<br>
-* Utilized ML algorithms to optimize sensor data with user ability<br>
-* Volunteered for BMES conference
+* EC236: Topics in Applied Economics for undergraduate

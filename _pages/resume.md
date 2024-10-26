@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /resume/
+permalink: /CV/
 title: CV
 # description: Materials for courses you taught. Replace this text with your description.
 ---
@@ -12,36 +12,47 @@ title: CV
 
 ### Tools
 
-* Coding: Python, MATLAB, C, HTML/Javascript
-* Design: Solidworks, 3D-Printing, AutoCAD, Inventor
-* Programs: Linux, Windows, NDS
+* Coding: Python, R, MATLAB, C, HTML/Javascript, STATA
+* Programs: Linux, Windows
 
 ### Experience
 
-#### Pearce Services - Design Engineer...
-#### <su>2016 - 2019</su>
+####  LiaoNing University - Assistant Professor for Economics...
+#### <su>2021.10.01 -  </su>
 
-* Facilitated infrastructure plans for major metro ISPs and carriers<br>
-* Scope of projects ranged from small businesses to residential communities<br>
-* Budgeted construction and labor costs, dispatching engineers on site when necessary
+* Research
+* Teaching
+* Supervision
+* Administration
 
-#### Drive Spotter - Product Engineer...
-#### <su>2015 - 2016</su>
 
-* Developed a working prototype construction zone detector using OpenCV<br>
-* Conducted prior art research; assisted in writing, editing, and revising patents and proposals<br>
-* Traveled frequently, giving demonstrations to investors and securing accounts
+####  University Carlos III of Madrid - Assistant Professor for Economics...
+#### <su>2017.08.01 - 2021.09.31 </su>
 
-#### Medline Industries - R&D Material Technician...
-#### <su>2014 - 2015</su>
+* Research
+* Teaching
+* Supervision
+* Administration
 
-* Conducted tests evaluating material properties of medical products for manufacturers<br>
-* Constructed new testing procedures in compliance with relevant ISO regulations<br>
-* Quantified experimental data in the final report of quality assurance investigation
+#### The University of Warwick -Teaching Fellow...
+#### <su>2016.09.01 - 2017.08.31</su>
 
-#### Rehabilitation Institute of Chicago - Research Intern...
-#### <su>2014</su>
+* Teaching
+* Supervision
 
-* Worked in a small team to develop a novel adaptive wheelchair controller for spinal cord injury patients<br>
-* Utilized ML algorithms to optimize sensor data with user ability<br>
-* Volunteered for BMES conference
+#### Cardiff University - P.h.D. Student...
+#### <su>2013.10.01 - 2017.06.30</su>
+
+* PhD Thesis on *Small Sample Properties*
+* Teaching tutorials
+
+### Honorous, Grants, and Awards
+
+* Spanish Ministry for the Science and Innovation, Juan de la Cierva Funding in               
+		Economics (2019-2021) <br>
+* Teaching Awards,  Carlos III University of Madrid (2019-2020) <br>
+* Julia Hodge Scholarship (2011-2017)
+* Cathie Marsh bursary, Royal Statistic Society (2015)
+* The summer School Scholarship, Cardiff University (2015)<br>
+* MSc Dissertation Prize (2012).
+*  MSc Total Score Runner Up Prize (2011).
