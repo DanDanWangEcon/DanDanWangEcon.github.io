@@ -17,6 +17,9 @@ description: A showcase of publications and ongoing research.
   *International Journal of Forecasting*, 37(3), 2021  
   [DOI: 10.1016/j.ijforecast.2020.12.008](https://doi.org/10.1016/j.ijforecast.2020.12.008)
 
+---
+
+
 ### Working Papers
 
 - **Deep Learning in Dynamic General Equilibrium Models**  

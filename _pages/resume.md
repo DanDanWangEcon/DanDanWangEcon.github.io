@@ -6,7 +6,9 @@ description: Overview of professional experience, skills, and achievements.
 ---
 
 <p>
-  <a href="/assets/pdf/CVtemplate.pdf"><div class="color-button">Download Full CV (PDF)</div></a>
+  <a href="/assets/pdf/CVtemplate.pdf" style="background-color: #007bff; color: #ffffff; padding: 10px 20px; border-radius: 8px; text-align: center; font-weight: bold; text-decoration: none; display: inline-block;">
+    Download Full CV (PDF)
+  </a>
 </p>
 
 ---
