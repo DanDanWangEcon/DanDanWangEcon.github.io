@@ -3,7 +3,11 @@
     {% if site.email %}<a href="mailto:{{ site.email | encode_email }}"><i class="fas fa-envelope"></i></a>{% endif %}
     {% if site.github_username %}<a href="https://github.com/{{ site.github_username }}" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>{% endif %}
     {% if site.phone %}<a href="tel:+15152292192" target="+1-515-229-2192" title="Phone"><i class="fas fa-phone"></i></a>{% endif %}
-
+    {% if site.scholar_userid %}
+     <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" target="_blank" title="Google Scholar">
+       <i class="ai ai-google-scholar"></i>
+     </a>
+   {% endif %}
   </span>
 
   <div class="col three caption">

@@ -2,58 +2,66 @@
 layout: page
 permalink: /cv/
 title: CV
-# description: Materials for courses you taught. Replace this text with your description.
+description: Overview of professional experience, skills, and achievements.
 ---
 
 <p>
-  <a href=""></a><div class=""></div>
-  <a href="/assets/pdf/CVtemplate.pdf"><div class="color-button">Curriculum vitae
-</div></a>
+  <a href="/assets/pdf/CVtemplate.pdf"><div class="color-button">Download Full CV (PDF)</div></a>
 </p>
 
-### Tools
+---
 
-* Coding: Python, R, MATLAB, C++, CSS, HTML/Javascript, STATA
-* Programs: Linux, Windows
+### Tools & Skills
 
-### Experience
+- **Coding**: Python, R, MATLAB, C++, CSS, HTML/JavaScript, STATA
+- **Operating Systems**: Linux, Windows
 
-####  LiaoNing University - Assistant Professor for Economics...
-#### <su>2021.10.01 -  </su>
+---
 
-* Research
-* Teaching
-* Supervision
-* Administration
+### Professional Experience
 
+#### LiaoNing University  
+**Assistant Professor of Economics**  
+*October 1, 2021 – Present*
 
-####  University Carlos III of Madrid - Assistant Professor for Economics...
-#### <su>2017.08.01 - 2021.09.31 </su>
+- Research
+- Teaching
+- Supervision
+- Administration
 
-* Research
-* Teaching
-* Supervision
-* Administration
+#### University Carlos III of Madrid  
+**Assistant Professor of Economics**  
+*August 1, 2017 – September 30, 2021*
 
-#### The University of Warwick -Teaching Fellow...
-#### <su>2016.09.01 - 2017.08.31</su>
+- Research
+- Teaching
+- Supervision
+- Administration
 
-* Teaching
-* Supervision
+#### The University of Warwick  
+**Teaching Fellow**  
+*September 1, 2016 – August 31, 2017*
 
-#### Cardiff University - P.h.D. Student...
-#### <su>2013.10.01 - 2017.06.30</su>
+- Teaching
+- Supervision
 
-* PhD Thesis on *Small Sample Properties*
-* Teaching tutorials
+#### Cardiff University  
+**Ph.D. Student**  
+*October 1, 2013 – June 30, 2017*
 
-### Honorous, Grants, and Awards
+- Ph.D. Thesis: *Small Sample Properties*
+- Teaching tutorials
 
-* Spanish Ministry for the Science and Innovation, Juan de la Cierva Funding in               
-		Economics (2019-2021) <br>
-* Teaching Awards,  Carlos III University of Madrid (2019-2020) <br>
-* Julia Hodge Scholarship (2011-2017)
-* Cathie Marsh bursary, Royal Statistic Society (2015)
-* The summer School Scholarship, Cardiff University (2015)<br>
-* MSc Dissertation Prize (2012).
-*  MSc Total Score Runner Up Prize (2011).
+---
+
+### Honors, Grants, and Awards
+
+- **Juan de la Cierva Funding in Economics**, Spanish Ministry for Science and Innovation (2019–2021)
+- **Teaching Awards**, Carlos III University of Madrid (2019–2020)
+- **Julia Hodge Scholarship** (2011–2017)
+- **Cathie Marsh Bursary**, Royal Statistical Society (2015)
+- **Summer School Scholarship**, Cardiff University (2015)
+- **MSc Dissertation Prize** (2012)
+- **MSc Total Score Runner-Up Prize** (2011)
+
+---

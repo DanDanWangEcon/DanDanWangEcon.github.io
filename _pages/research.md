@@ -58,3 +58,5 @@ description: A showcase of publications and ongoing research.
   _with MiaoJie Yu_
 
 - **Environmental Macroeconomic Models as Constructive Games**
+
+---

@@ -1,30 +1,46 @@
 ---
 layout: page
-title: teaching
+title: Teaching
 permalink: /teaching/
-description: #A growing collection of your cool projects.
+description: Courses and teaching experience across various institutions.
 ---
 
-####  LiaoNing University - Assistant Professor for Economics...
-#### <su>2021.10.01 -  </su>
+### LiaoNing University  
+**Assistant Professor of Economics**  
+*October 1, 2021 – Present*
 
-* Financial Econometrics for Master
-* Advanced Econometrics II for P.h.D.
-* Advanced Econometrics I for P.h.D.
-* Business Statistics for undergraduate
-* Artificial Intelligence for undergraduate
+- **Graduate Courses**:
+  - Financial Econometrics (Master’s)
+  - Advanced Econometrics II (Ph.D.)
+  - Advanced Econometrics I (Ph.D.)
 
-####  University Carlos III of Madrid - Assistant Professor for Economics...
-#### <su>2017.08.01 - 2021.09.31 </su>
+- **Undergraduate Courses**:
+  - Business Statistics
+  - Artificial Intelligence
 
-* Causal Inference for Master
-* Time series analysis and forecasting for Master
-* Statistics II for Master
-* Advanced Econometrics I for P.h.D.
-* Econometric II for undergraduate
-* Econometric I for undergraduate
+---
 
-#### The University of Warwick -Teaching Fellow...
-#### <su>2016.09.01 - 2017.08.31</su>
+### University Carlos III of Madrid  
+**Assistant Professor of Economics**  
+*August 1, 2017 – September 30, 2021*
 
-* EC236: Topics in Applied Economics for undergraduate
+- **Graduate Courses**:
+  - Causal Inference (Master’s)
+  - Time Series Analysis and Forecasting (Master’s)
+  - Statistics II (Master’s)
+  - Advanced Econometrics I (Ph.D.)
+
+- **Undergraduate Courses**:
+  - Econometrics II
+  - Econometrics I
+
+---
+
+### The University of Warwick  
+**Teaching Fellow**  
+*September 1, 2016 – August 31, 2017*
+
+- **Undergraduate Course**:
+  - EC236: Topics in Applied Economics
+
+---
