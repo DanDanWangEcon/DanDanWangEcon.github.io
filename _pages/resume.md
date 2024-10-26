@@ -7,7 +7,7 @@ title: CV
 
 <p>
   <a href=""></a><div class=""></div>
-  <a href="/assets/pdf/CVtemplate.pdf"><div class="color-button">Resume</div></a>
+  <a href="/assets/pdf/CVtemplate.pdf"><div class="color-button">CV</div></a>
 </p>
 
 ### Tools

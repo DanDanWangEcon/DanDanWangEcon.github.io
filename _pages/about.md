@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: About
 permalink: /
 title: <strong>Dandan Wang</strong>
 description: Machine Learning | Economist
