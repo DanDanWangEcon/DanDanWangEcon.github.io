@@ -14,9 +14,15 @@ social: true
 <br>
 Dandan Wang serves as an Assistant Professor of Economics at the [LiaoNing University](https://enweb.lnu.edu.cn/),  focusing on the development and maintenance of machine learning and econometric toolboxes, with particular emphasising on methods for analysing complex systems involving agent-based models and policy simulations related to climate change and inequality.
 
-Her academic pursuits are centred around applying machine learning techniques to public policy challenges, with a particular emphasis on addressing inequality and environmental issues. She leverages econometric methods, machine learning, and agent-based models to analyse the complex interactions between economic policies, climate change, and societal well-being. 
+Her academic pursuits are centred around applying machine learning techniques to public policy challenges, with a particular emphasis on addressing inequality and environmental issues. She leverages econometric methods, machine learning, and agent-based models to analyse the complex interactions between economic policies, climate change, and societal well-being.
 
-Her research interests include but not limited to interests: Machine Learning, Public Policy, Econometrics, Agent Based Models, Inequality, Environment, Climate Change, Mental Health.
+Her research interests include but are not limited to:
+* Machine Learning
+* Econometrics
+* Agent Based Models
+* Inequality
+* Environment and Climate Change
+* Mental Health
 
 
 <!-- I'm currently a masters student of robotics at Northwestern University in Chicago. My passion lies in prosthetics, learning new ways of augmenting human ability, and making new methodologies accessible.
