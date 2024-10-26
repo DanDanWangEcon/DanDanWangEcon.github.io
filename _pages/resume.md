@@ -7,12 +7,13 @@ title: CV
 
 <p>
   <a href=""></a><div class=""></div>
-  <a href="/assets/pdf/CVtemplate.pdf"><div class="color-button">CV</div></a>
+  <a href="/assets/pdf/CVtemplate.pdf"><div class="color-button">Curriculum vitae
+</div></a>
 </p>
 
 ### Tools
 
-* Coding: Python, R, MATLAB, C, HTML/Javascript, STATA
+* Coding: Python, R, MATLAB, C++, CSS, HTML/Javascript, STATA
 * Programs: Linux, Windows
 
 ### Experience

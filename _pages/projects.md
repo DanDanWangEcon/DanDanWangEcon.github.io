@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: teaching
 permalink: /teaching/
 description: #A growing collection of your cool projects.
 ---
