@@ -8,7 +8,7 @@ description: A showcase of publications and ongoing research.
 ### Publications
 
 - **Digital Finance and Corporate Financialization: From the Perspective of Bank Competition and Economic Policy Uncertainty**  
-  _with Da Yang, Hongyang Ma, Ken Ho_  
+  _with Da Yang, Hongyang Ma, Ken C. Ho_  
   *Applied Economics Letters* (2024)  
   [DOI: 10.1080/13504851.2024.2363984](https://doi.org/10.1080/13504851.2024.2363984)
 
@@ -31,7 +31,7 @@ description: A showcase of publications and ongoing research.
   *Econometric Reviews*, R&R
 
 - **Digital Finance and Urban Innovation: From the Perspective of Innovative Small and Medium Enterprises**  
-  _with Ken C.Y. Ho, Zhihui Ma, Xiaoxiao Feng_  
+  _with Ken C. Ho, Zhihui Ma, Xiaoxiao Feng_  
   Submitted
 
 - **'Rent-Purchase' Policy on the Housing Market**  
@@ -39,7 +39,7 @@ description: A showcase of publications and ongoing research.
   Submitted
 
 - **The Nexus between ESG Performance and Labor Investment Efficiency in China: A Nonlinear Approach**  
-  _with Ken C.Y. Ho, Da Yang, Zhao Yang_  
+  _with Ken C. Ho, Da Yang, Zhao Yang_  
   Submitted, 2024
 
 - **A Small-sigma Approximation for LIML and FLIML to Estimation Bias in the Dynamic Simultaneous Equation Model**  
