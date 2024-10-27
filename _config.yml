@@ -2,7 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Dandan Wang
-email: wangdandan@lnu.edu.cn
+email1: wangdandan@lnu.edu.cn
+email2: dandanwang0614@gmail.com
 description: > # this means to ignore newlines until "url:"
   Portfolio for Dandan Wang | Dr. in Economics
 footer_text: >
@@ -40,6 +41,8 @@ contact_note: >
   Email, or let's set up a meeting
   <br>
   wangdandan@lnu.edu.cn
+<br>
+  dandanwang0614@gmail.com
 
 
 google_analytics: # out your google-analytics code

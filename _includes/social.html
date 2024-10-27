@@ -1,6 +1,15 @@
 <div class="social">
   <span class="contacticon center">
-    {% if site.email %}<a href="mailto:{{ site.email | encode_email }}"><i class="fas fa-envelope"></i></a>{% endif %}
+    {% if site.email1 %}
+     <a href="mailto:{{ site.email1 | encode_email }}">
+       <i class="fas fa-envelope"></i>
+     </a>
+   {% endif %}
+   {% if site.email2 %}
+     <a href="mailto:{{ site.email2 | encode_email }}">
+       <i class="fas fa-envelope"></i>
+     </a>
+   {% endif %}
     {% if site.github_username %}<a href="https://github.com/{{ site.github_username }}" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>{% endif %}
     {% if site.phone %}<a href="tel:+15152292192" target="+1-515-229-2192" title="Phone"><i class="fas fa-phone"></i></a>{% endif %}
     {% if site.scholar_userid %}
@@ -8,11 +17,6 @@
        <i class="ai ai-google-scholar"></i>
      </a>
    {% endif %}
-   {% if site.github_username %}
-  <a href="https://github.com/{{ site.github_username }}" target="_blank" title="GitHub">
-    <i class="fab fa-github"></i>
-  </a>
-{% endif %}
   </span>
 
   <div class="col three caption">
